@@ -32,6 +32,9 @@ Run your Marauder setup efficiently on the compact and affordable ESP32-C3 Super
 ---
 
 # ➰ **Wiring Diagram** 
+![Header](Images/C3F0-Diagram.png)
+
+---
 
 # ⚡ **Web Flasher**  
 Use the link below to flash with the new web flasher tool!  
