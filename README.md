@@ -42,7 +42,7 @@ The other libraries needed can be located
 # ⚡ **Web Flasher**  
 Use the link below to flash with the new web flasher tool!  
 <br>
-<a href="">Web Flasher Tool</a>
+<a href="https://atomnft.github.io/ESP32_C3_SuperMini_Marauder_Flasher/flash0.html">Web Flasher Tool</a>
 
 </div>
 
