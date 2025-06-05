@@ -45,6 +45,11 @@ Use the link below to flash Wifi Marauder onto a ESP32C3 Super Mini with the web
 
 ---
 
+# 📢 Shoutouts! 📢
+A huge shoutout to the man <a href=https://github.com/justcallmekoko>JustCallMeKoko</a>for the foundational work on ESP32 Marauder.
+
+---
+
 <details>
 <summary><h2>ESP32 Marauder Info</h2></summary>
 
