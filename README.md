@@ -26,7 +26,7 @@ Run your Marauder setup efficiently on the compact and affordable ESP32-C3 Super
 > # 🛠️ **Device Compatibility**
 > 
 > Successfully tested on:
-> - [ESP32-C3 Super Mini]()  
+> - [ESP32-C3 Super Mini](https://www.aliexpress.us/item/3256806832819523.html?channel=twinner )  
 > - [Other ESP32-C3 Variants]
 
 ---
