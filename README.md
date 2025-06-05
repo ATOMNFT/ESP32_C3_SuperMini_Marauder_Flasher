@@ -23,14 +23,6 @@ Run your Marauder setup efficiently on the compact and affordable ESP32-C3 Super
 
 ---
 
-# 📚 Libraries 📚  
-You MUST install this version of NimBLE  
-<a href="https://github.com/h2zero/NimBLE-Arduino/releases/tag/1.3.5">NimBLE 1.3.5</a>  
-The other libraries needed can be located  
-<a href="https://github.com/justcallmekoko/ESP32Marauder/wiki/installing-firmware-from-source#installing-firmware-from-source">HERE</a>  
-
----
-
 > # 🛠️ **Device Compatibility**
 > 
 > Successfully tested on:
