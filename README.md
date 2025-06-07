@@ -27,9 +27,6 @@ Run your Marauder setup efficiently on the compact and affordable ESP32-C3 Super
 > [!IMPORTANT]  
 > No serail connection at this time, but I am working on the issue.
 
-> [!TIP]
-> Use the command line to detect and resolve the errors!
-
 ---
 
 > # 🛠️ **Device Compatibility**
