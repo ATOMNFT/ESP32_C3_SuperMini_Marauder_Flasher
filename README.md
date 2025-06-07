@@ -22,9 +22,8 @@ Ideal for pentesters, hackers, and hobbyists alike!
 Run your Marauder setup efficiently on the compact and affordable ESP32-C3 Super Mini. Contributions are welcome! 🎉
 <br>
 
-### 🖥️ Serial Connection 🖥️
 
-| IMPORTANT INFO |
+| 🖥️ Serial Connection 🖥️ |
 | ---- |
 | No serail connection at this time, but I am working on the issue. |
 
