@@ -20,6 +20,10 @@ This version brings the latest features, fixes, and improvements for WiFi/Blueto
 Ideal for pentesters, hackers, and hobbyists alike!  
 <br>
 Run your Marauder setup efficiently on the compact and affordable ESP32-C3 Super Mini. Contributions are welcome! 🎉
+<br>
+
+### Serial Connection
+There is no serial connection at this time but I am working on correcting the issue.
 
 ---
 
