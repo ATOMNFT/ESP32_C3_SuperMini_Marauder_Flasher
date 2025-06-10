@@ -42,8 +42,10 @@ Run your Marauder setup efficiently on the compact and affordable ESP32-C3 Super
 
 ---
 
-# ⚡ **Web Flasher**  
-Use the button below to flash Wifi Marauder onto a ESP32C3 Super Mini with the web flasher tool!
+## ⚡ Simple Flash Method ⚡
+* If you're not viewing this page in google chrome you should do so now by right clicking the button and copying the address and opening it with google chrome.
+* If you're already in chrome click the button to flash the project onto ESP32C3 Super Mini
+
 [![](https://github.com/ATOMNFT/ESP32_C3_SuperMini_Marauder_Flasher/blob/main/Images/flash-button.png)](https://atomnft.github.io/ESP32_C3_SuperMini_Marauder_Flasher/flash0.html)
 
 </div>
