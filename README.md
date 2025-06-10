@@ -10,7 +10,7 @@
 
 <div align="left">
 
-## ⬆ ESP32-C3 Super Mini Update Highlights 6/4/25 ⬆ <br> Added New v1.6.2!
+## ⬆ ESP32-C3 Super Mini Update Highlights 6/10/25 ⬆ <br> Added New v1.7.0!
 
 ---
 
