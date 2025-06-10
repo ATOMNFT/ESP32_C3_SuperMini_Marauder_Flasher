@@ -103,10 +103,10 @@
 	  </p>
 	</div>
     <fieldset>
-      <legend>ESP32 C3 SuperMini Marauder 1.6.2</legend>
-      <select id="select-1.6.2">
+      <legend>ESP32 C3 SuperMini Marauder 1.7.0</legend>
+      <select id="select-1.7.0">
         <option value="" selected disabled>Choose below</option>
-        <option value="ESP32_C3_SuperMini_marauder_1.6.2">ESP32 C3 SuperMini Marauder</option>
+        <option value="ESP32_C3_SuperMini_marauder_1.7.0">ESP32 C3 SuperMini Marauder</option>
       </select>
     </fieldset>
     <p class="button-row" align="center">
@@ -114,7 +114,7 @@
     </p>
   </center>
   <script>
-    document.getElementById('select-1.6.2').addEventListener('change', (event) => {
+    document.getElementById('select-1.7.0').addEventListener('change', (event) => {
       const button = document.querySelector('esp-web-install-button');
       button.manifest = `web/manifest_${event.target.value}.json`;
       button.classList.remove('invisible');
