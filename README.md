@@ -25,7 +25,7 @@ Run your Marauder setup efficiently on the compact and affordable ESP32-C3 Super
 
 | 🖥️ Serial Connection 🖥️ |
 | ---- |
-| No serail connection at this time, but I am working on the issue. |
+| No serial connection at this time, but I am working on the issue. |
 
 ---
 
